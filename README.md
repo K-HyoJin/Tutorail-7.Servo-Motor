@@ -46,3 +46,4 @@ print("fin")
 
 ```board.exit()``` \
 동작을 종료시킴
+
